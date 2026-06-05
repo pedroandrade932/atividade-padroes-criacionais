@@ -1,7 +1,6 @@
 package br.edu.ifpb.ads.padroes.atv1.rpg.creators;
 
 import br.edu.ifpb.ads.padroes.atv1.rpg.Personagem;
-import br.edu.ifpb.ads.padroes.atv1.rpg.Personagem.Builder;
 import br.edu.ifpb.ads.padroes.atv1.rpg.armory.Arma;
 import br.edu.ifpb.ads.padroes.atv1.rpg.armory.Armadura;
 import br.edu.ifpb.ads.padroes.atv1.rpg.factory.ComponentesPersonagemFactory;
